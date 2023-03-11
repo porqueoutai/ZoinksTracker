@@ -1,6 +1,12 @@
-# ZoinksTracker
+# Zoinks Tracker
 
 Community project tracking tokens and earning instruments of [Hedge Zoinks](https://zoinks.fi)
+
+## Discord
+
+Chat with fellow followers of the Hedge Zoinks ecosystem. All activity and statistics are also available here.
+
+https://discord.gg/Fc6rtyn8Fz
 
 ## Telegram
 
@@ -22,4 +28,8 @@ Pleases create an [issue](https://github.com/porqueoutai/ZoinksTracker/issues) w
 
 ## Source Code
 
-Code is closed source and managed in a private repository
+Code is closed source and managed in a private repository.
+
+If you want to help building or become a mod - reach out to me on Telegram or Discord.
+
+Techstack: Golang, AWS, Terraform, GitLab.
