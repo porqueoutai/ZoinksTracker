@@ -6,7 +6,7 @@ Community project tracking tokens and earning instruments of [Hedge Zoinks](http
 
 Chat with fellow followers of the Hedge Zoinks ecosystem. All activity and statistics are also available here.
 
-https://discord.gg/Fc6rtyn8Fz
+https://discord.gg/AWMTfyJfux
 
 ## Telegram
 
