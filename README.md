@@ -1,16 +1,16 @@
 # ZoinksTracker
 
-Community project tracking snacks tokens of [Hedge Zoinks](https://zoinks.fi)
+Community project tracking tokens and earning instruments of [Hedge Zoinks](https://zoinks.fi)
 
 ## Telegram
 
 Join Telegram and do not miss any Snacks minting and redeeming activity.
 
-https://t.me/+EV4FF-be6uJkYWFi
+https://t.me/zoinkstracker
 
 ## Website
 
-https://zoinkstracker.com
+https://www.zoinkstracker.com
 
 ## Feature Request
 
