@@ -8,6 +8,12 @@ Chat with fellow followers of the Hedge Zoinks ecosystem. All activity and stati
 
 https://discord.gg/AWMTfyJfux
 
+### Discord Price Bots
+
+*Snack: https://bit.ly/3ZHHMG7
+*BtcSnack: https://bit.ly/402bkOs
+*EthSnack: https://bit.ly/3JvpnXx
+
 ## Telegram
 
 Join Telegram and do not miss any Snacks minting and redeeming activity.
