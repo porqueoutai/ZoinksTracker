@@ -10,9 +10,11 @@ https://discord.gg/AWMTfyJfux
 
 ### Discord Price Bots
 
-*Snack: https://bit.ly/3ZHHMG7
-*BtcSnack: https://bit.ly/402bkOs
-*EthSnack: https://bit.ly/3JvpnXx
+Snack: https://bit.ly/3ZHHMG7
+
+BtcSnack: https://bit.ly/402bkOs
+
+EthSnack: https://bit.ly/3JvpnXx
 
 ## Telegram
 
